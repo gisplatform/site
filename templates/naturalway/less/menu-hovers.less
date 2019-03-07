@@ -1,0 +1,155 @@
+@import "variables.less";
+@import "/jui/less/mixins.less";
+@import "mixins/index.less";
+// import the appropriate color scheme based on header
+@import "menu-@{headerstyle}.less";
+
+.gf-menu
+{
+    // Bottom border fixer
+    &.l1 > li
+    {
+        &:hover > .item
+        {
+            color: @menuTextColor;
+        }
+    }
+
+    &.l1 > li
+    {
+        &:hover, &.active:hover
+        {
+            background-color: none;
+        }
+    }
+    // Default items
+    li
+    {
+        &:hover, &.active:hover
+        {
+            > .dropdown
+            {
+                .opacity(100);
+                left: 0;
+                top: auto;
+                visibility: visible;
+                opacity: 1;
+            }
+        }
+        &:hover > .item
+        {
+            color: @menuTextHover;
+            text-shadow: none;
+            
+            em
+            {
+                color: @menuTextHover;
+            }
+        }
+    }
+    // Parent items
+    li.parent 
+    {
+        &:hover
+        {
+            z-index: 10210;
+        }
+    }
+    // Dropdown styling
+    .dropdown
+    {
+        .opacity(0);
+        padding: 0;
+        position: absolute;
+        .transition(visibility 0s linear 0.05s, opacity 0.3s linear 0s);
+        
+        ul
+        {
+            li
+            {
+                
+                &:hover
+                {
+                    > .item
+                    {
+                        /**farbe der sub-menu-elemente
+                        beim hovern*/
+                        
+                        background-color: @menuHoverColor;
+                        text-shadow: none;
+                        
+                    }
+                }
+            }
+        }
+    }
+    // Flyout dropdowns (3rd Level +)
+    .dropdown li:hover > .flyout
+    {
+        display: block !important;
+        margin-top: -40px;
+    }
+    
+    .dropdown li:hover > .flyouthorz
+    {
+        display: block;
+    }
+}
+
+
+
+// RTL
+body.rtl
+{
+    li
+    {
+            &:hover, &.active:hover
+                {
+                    > .dropdown
+                    {
+                            left: inherit;
+                            right: -1px;
+                    }
+            }
+    }
+    .dropdown
+    {
+        ul
+        {
+            li
+            {
+                &:hover
+                {
+                    > .flyout
+                    {
+                        left: inherit;
+                        right: 100%;
+                        margin-left: auto;
+                        margin-right: -6px;
+                        visibility: visible;
+                        opacity: 1;
+                    }
+                    > .item
+                    {
+                        // Left border fixer
+                        .border-fixer
+                        {
+                            right: inherit;
+                            left: -1px;
+                        }
+                    }
+                }
+                &.parent
+                {
+                    &:hover
+                    {
+                        > .item
+                        {
+                            .border-radius(0);
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

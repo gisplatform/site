@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<gantrytips>
+
+	<tip label="How To Install The Slider?">
+		<![CDATA[
+		The responsive slider is only available for the pro version of this template.
+                <br/><br/>
+                After purchasing and downloading this template, the slider installs with the template.
+                <br/><br/>
+                Once the template and module have been successfully installed, head to the Joomla! Module Manager and find "Responsive Slide Show".
+                <br/><br/>
+                Add the images for the slider in "Options" => "File Paths" by separating each image file by a comma. The paths must be relative or starting with http://<br/><br/>
+                Assign the module to the showcase-a position, choose for what menu items the slider should appear and publish.
+                ]]>
+	</tip>
+        <tip label="How To Change Colors?">
+            <![CDATA[
+            Color options for this template are only available in the pro version.
+            <br/><br/>
+            Changing colors is simple: Go to the Colors tab of this template and choose the right colors as desired.
+            <br/><br/>
+            Keep in mind that we heavily use filters and lighten up some color codes in the module positions to keep smooth gradients, no matter what color has been selected.
+            If you want dark color tones, then please user a much more darkened version of the color you want to use.
+            <br/><br/>
+            Best is you'll play around with the color options for each area of your website one-by-one, starting with links and then all the way down for the module positions you are using.
+            ]]>
+        </tip>
+        <tip label="What else is there for me?">
+            <![CDATA[
+            See the Features tab of this template. There you can enable or disable a variety of features that ship with this template such as fixed menus, rounded or normal menus, To-Top button and many more!
+            ]]>
+        </tip>
+-->
+</gantrytips>
