@@ -4,38 +4,38 @@
 	<channel>
 		<title>Примеры работы</title>
 		<description><![CDATA[GIS Platform]]></description>
-		<link>https://www.gis-platform.ru/index.php/examples</link>
+		<link>https://gis-platform.ru/index.php/examples</link>
 		<lastBuildDate>Thu, 07 Mar 2019 11:03:13 +0000</lastBuildDate>
 		<generator>Joomla! - Open Source Content Management</generator>
-		<atom:link rel="self" type="application/rss+xml" href="https://www.gis-platform.ru/index.php/examples?format=feed&amp;type=rss"/>
+		<atom:link rel="self" type="application/rss+xml" href="https://gis-platform.ru/index.php/examples?format=feed&amp;type=rss"/>
 		<language>ru-ru</language>
 		<item>
 			<title>Общие примеры</title>
-			<link>https://www.gis-platform.ru/index.php/examples/7-common-examples</link>
-			<guid isPermaLink="true">https://www.gis-platform.ru/index.php/examples/7-common-examples</guid>
+			<link>https://gis-platform.ru/index.php/examples/7-common-examples</link>
+			<guid isPermaLink="true">https://gis-platform.ru/index.php/examples/7-common-examples</guid>
 			<description><![CDATA[<h3 data-canvas-width="393.1399999999999">Движение по маршруту с курсоуказанием.</h3>
-<p><img src="https://www.gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_1.jpg" alt="" /></p>
+<p><img src="https://gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_1.jpg" alt="" /></p>
 <p> </p>
 <h3 data-canvas-width="378.15999999999997">Список поворотных пунктов маршрута.</h3>
-<p><img src="https://www.gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_2.jpg" alt="" /></p>
+<p><img src="https://gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_2.jpg" alt="" /></p>
 <h3 data-canvas-width="254.13999999999996">Определение зоны видимости.</h3>
-<p><img src="https://www.gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_5.jpg" alt="" /></p>
+<p><img src="https://gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_5.jpg" alt="" /></p>
 <p> </p>
 <h3 data-canvas-width="241.67999999999995">Определение угла доворота.</h3>
-<p><img src="https://www.gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_6.jpg" alt="" /> </p>
+<p><img src="https://gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_6.jpg" alt="" /> </p>
 <h3 data-canvas-width="401.1799999999999">Ввод координат точки с экранной клавиатуры.</h3>
-<p><img src="https://www.gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_3.jpg" alt="" /></p>
+<p><img src="https://gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_3.jpg" alt="" /></p>
 <h3 data-canvas-width="229.93999999999997">Поиск объектов по имени.</h3>
-<p><img src="https://www.gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_4.jpg" alt="" /></p>
+<p><img src="https://gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_4.jpg" alt="" /></p>
 <h3>Загрузка карты с подключенного USB-носителя.</h3>
-<p><img src="https://www.gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_7.jpg" alt="" /></p>
+<p><img src="https://gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_7.jpg" alt="" /></p>
 <h3>Калибровка ПО под сенсорный экран.</h3>
-<p><img src="https://www.gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_8.jpg" alt="" /></p>
+<p><img src="https://gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_8.jpg" alt="" /></p>
 <table>
 <tbody>
 <tr>
-<td><a href="https://www.gis-platform.ru/images/uploads/description_gis.pdf"><span style="font-family: Liberation Serif,serif;"><span style="font-size: large;"><img src="https://www.gis-platform.ru/images/uploads/icons/pdf-32.png" alt="" /></span></span></a></td>
-<td><a href="https://www.gis-platform.ru/images/uploads/description_gis.pdf"><span style="font-family: Liberation Serif,serif;">Общие примеры взяты из утвержденного Краткого описания (PDF, 3 страницы, 4 Мб).</span></a></td>
+<td><a href="https://gis-platform.ru/images/uploads/description_gis.pdf"><span style="font-family: Liberation Serif,serif;"><span style="font-size: large;"><img src="https://gis-platform.ru/images/uploads/icons/pdf-32.png" alt="" /></span></span></a></td>
+<td><a href="https://gis-platform.ru/images/uploads/description_gis.pdf"><span style="font-family: Liberation Serif,serif;">Общие примеры взяты из утвержденного Краткого описания (PDF, 3 страницы, 4 Мб).</span></a></td>
 </tr>
 </tbody>
 </table>
@@ -45,20 +45,20 @@
 		</item>
 		<item>
 			<title>МКАД</title>
-			<link>https://www.gis-platform.ru/index.php/examples/8-mkad</link>
-			<guid isPermaLink="true">https://www.gis-platform.ru/index.php/examples/8-mkad</guid>
+			<link>https://gis-platform.ru/index.php/examples/8-mkad</link>
+			<guid isPermaLink="true">https://gis-platform.ru/index.php/examples/8-mkad</guid>
 			<description><![CDATA[<p>Реальный трек, записанный при движении по Новорязанскому шоссе и МКАД.</p>
-<p><img src="https://www.gis-platform.ru/images/uploads/examples/mkad/example_mkad.png" alt="" /></p>
-<p><img src="https://www.gis-platform.ru/images/uploads/examples/mkad/example_mkad_2.png" alt="" /></p>]]></description>
+<p><img src="https://gis-platform.ru/images/uploads/examples/mkad/example_mkad.png" alt="" /></p>
+<p><img src="https://gis-platform.ru/images/uploads/examples/mkad/example_mkad_2.png" alt="" /></p>]]></description>
 			<category>Примеры работы</category>
 			<pubDate>Fri, 24 Oct 2014 21:52:50 +0000</pubDate>
 		</item>
 		<item>
 			<title>На дальних расстояниях</title>
-			<link>https://www.gis-platform.ru/index.php/examples/2-far</link>
-			<guid isPermaLink="true">https://www.gis-platform.ru/index.php/examples/2-far</guid>
+			<link>https://gis-platform.ru/index.php/examples/2-far</link>
+			<guid isPermaLink="true">https://gis-platform.ru/index.php/examples/2-far</guid>
 			<description><![CDATA[<p>Реальные примеры работы на дальних расстояниях (с борта самолета).</p>
-<p><img src="https://www.gis-platform.ru/images/uploads/examples/istanbul/01_kursk.png" alt="" /><img src="https://www.gis-platform.ru/images/uploads/examples/istanbul/01_istanbul.png" alt="" /><img src="https://www.gis-platform.ru/images/uploads/examples/istanbul/02_istanbul.png" alt="" /><img src="https://www.gis-platform.ru/images/uploads/examples/istanbul/03_istanbul.png" alt="" /></p>]]></description>
+<p><img src="https://gis-platform.ru/images/uploads/examples/istanbul/01_kursk.png" alt="" /><img src="https://gis-platform.ru/images/uploads/examples/istanbul/01_istanbul.png" alt="" /><img src="https://gis-platform.ru/images/uploads/examples/istanbul/02_istanbul.png" alt="" /><img src="https://gis-platform.ru/images/uploads/examples/istanbul/03_istanbul.png" alt="" /></p>]]></description>
 			<category>Примеры работы</category>
 			<pubDate>Wed, 01 Jan 2014 22:52:50 +0000</pubDate>
 		</item>

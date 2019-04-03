@@ -3,73 +3,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="ru-ru">
 	<title type="text">Примеры работы</title>
 	<subtitle type="text">GIS Platform</subtitle>
-	<link rel="alternate" type="text/html" href="https://www.gis-platform.ru"/>
-	<id>https://www.gis-platform.ru/index.php/examples</id>
+	<link rel="alternate" type="text/html" href="https://gis-platform.ru"/>
+	<id>https://gis-platform.ru/index.php/examples</id>
 	<updated>2019-03-07T11:03:14+00:00</updated>
 	<author>
 		<name>GIS Platform</name>
 	</author>
 	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
-	<link rel="self" type="application/atom+xml" href="https://www.gis-platform.ru/index.php/examples?format=feed&amp;type=atom"/>
+	<link rel="self" type="application/atom+xml" href="https://gis-platform.ru/index.php/examples?format=feed&amp;type=atom"/>
 	<entry>
 		<title>Общие примеры</title>
-		<link rel="alternate" type="text/html" href="https://www.gis-platform.ru/index.php/examples/7-common-examples"/>
+		<link rel="alternate" type="text/html" href="https://gis-platform.ru/index.php/examples/7-common-examples"/>
 		<published>2016-04-27T11:22:14+00:00</published>
 		<updated>2016-04-27T11:22:14+00:00</updated>
-		<id>https://www.gis-platform.ru/index.php/examples/7-common-examples</id>
+		<id>https://gis-platform.ru/index.php/examples/7-common-examples</id>
 		<author>
 			<name>SS</name>
 		</author>
 		<summary type="html">&lt;h3 data-canvas-width=&quot;393.1399999999999&quot;&gt;Движение по маршруту с курсоуказанием.&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;h3 data-canvas-width=&quot;378.15999999999997&quot;&gt;Список поворотных пунктов маршрута.&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;h3 data-canvas-width=&quot;254.13999999999996&quot;&gt;Определение зоны видимости.&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;h3 data-canvas-width=&quot;241.67999999999995&quot;&gt;Определение угла доворота.&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_6.jpg&quot; alt=&quot;&quot; /&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_6.jpg&quot; alt=&quot;&quot; /&gt; &lt;/p&gt;
 &lt;h3 data-canvas-width=&quot;401.1799999999999&quot;&gt;Ввод координат точки с экранной клавиатуры.&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;h3 data-canvas-width=&quot;229.93999999999997&quot;&gt;Поиск объектов по имени.&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;h3&gt;Загрузка карты с подключенного USB-носителя.&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;h3&gt;Калибровка ПО под сенсорный экран.&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_8.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_8.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;table&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&quot;https://www.gis-platform.ru/images/uploads/description_gis.pdf&quot;&gt;&lt;span style=&quot;font-family: Liberation Serif,serif;&quot;&gt;&lt;span style=&quot;font-size: large;&quot;&gt;&lt;img src=&quot;https://www.gis-platform.ru/images/uploads/icons/pdf-32.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&quot;https://www.gis-platform.ru/images/uploads/description_gis.pdf&quot;&gt;&lt;span style=&quot;font-family: Liberation Serif,serif;&quot;&gt;Общие примеры взяты из утвержденного Краткого описания (PDF, 3 страницы, 4 Мб).&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://gis-platform.ru/images/uploads/description_gis.pdf&quot;&gt;&lt;span style=&quot;font-family: Liberation Serif,serif;&quot;&gt;&lt;span style=&quot;font-size: large;&quot;&gt;&lt;img src=&quot;https://gis-platform.ru/images/uploads/icons/pdf-32.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://gis-platform.ru/images/uploads/description_gis.pdf&quot;&gt;&lt;span style=&quot;font-family: Liberation Serif,serif;&quot;&gt;Общие примеры взяты из утвержденного Краткого описания (PDF, 3 страницы, 4 Мб).&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt; &lt;/p&gt;</summary>
 		<content type="html">&lt;h3 data-canvas-width=&quot;393.1399999999999&quot;&gt;Движение по маршруту с курсоуказанием.&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;h3 data-canvas-width=&quot;378.15999999999997&quot;&gt;Список поворотных пунктов маршрута.&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;h3 data-canvas-width=&quot;254.13999999999996&quot;&gt;Определение зоны видимости.&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;
 &lt;h3 data-canvas-width=&quot;241.67999999999995&quot;&gt;Определение угла доворота.&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_6.jpg&quot; alt=&quot;&quot; /&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_6.jpg&quot; alt=&quot;&quot; /&gt; &lt;/p&gt;
 &lt;h3 data-canvas-width=&quot;401.1799999999999&quot;&gt;Ввод координат точки с экранной клавиатуры.&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;h3 data-canvas-width=&quot;229.93999999999997&quot;&gt;Поиск объектов по имени.&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;h3&gt;Загрузка карты с подключенного USB-носителя.&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;h3&gt;Калибровка ПО под сенсорный экран.&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_8.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gis-platform.ru/images/uploads/examples/common_from_desc/common_exampel_8.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 &lt;table&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;&lt;a href=&quot;https://www.gis-platform.ru/images/uploads/description_gis.pdf&quot;&gt;&lt;span style=&quot;font-family: Liberation Serif,serif;&quot;&gt;&lt;span style=&quot;font-size: large;&quot;&gt;&lt;img src=&quot;https://www.gis-platform.ru/images/uploads/icons/pdf-32.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&quot;https://www.gis-platform.ru/images/uploads/description_gis.pdf&quot;&gt;&lt;span style=&quot;font-family: Liberation Serif,serif;&quot;&gt;Общие примеры взяты из утвержденного Краткого описания (PDF, 3 страницы, 4 Мб).&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://gis-platform.ru/images/uploads/description_gis.pdf&quot;&gt;&lt;span style=&quot;font-family: Liberation Serif,serif;&quot;&gt;&lt;span style=&quot;font-size: large;&quot;&gt;&lt;img src=&quot;https://gis-platform.ru/images/uploads/icons/pdf-32.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://gis-platform.ru/images/uploads/description_gis.pdf&quot;&gt;&lt;span style=&quot;font-family: Liberation Serif,serif;&quot;&gt;Общие примеры взяты из утвержденного Краткого описания (PDF, 3 страницы, 4 Мб).&lt;/span&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -78,34 +78,34 @@
 	</entry>
 	<entry>
 		<title>МКАД</title>
-		<link rel="alternate" type="text/html" href="https://www.gis-platform.ru/index.php/examples/8-mkad"/>
+		<link rel="alternate" type="text/html" href="https://gis-platform.ru/index.php/examples/8-mkad"/>
 		<published>2014-10-24T21:52:50+00:00</published>
 		<updated>2014-10-24T21:52:50+00:00</updated>
-		<id>https://www.gis-platform.ru/index.php/examples/8-mkad</id>
+		<id>https://gis-platform.ru/index.php/examples/8-mkad</id>
 		<author>
 			<name>SS</name>
 		</author>
 		<summary type="html">&lt;p&gt;Реальный трек, записанный при движении по Новорязанскому шоссе и МКАД.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.gis-platform.ru/images/uploads/examples/mkad/example_mkad.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.gis-platform.ru/images/uploads/examples/mkad/example_mkad_2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</summary>
+&lt;p&gt;&lt;img src=&quot;https://gis-platform.ru/images/uploads/examples/mkad/example_mkad.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gis-platform.ru/images/uploads/examples/mkad/example_mkad_2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</summary>
 		<content type="html">&lt;p&gt;Реальный трек, записанный при движении по Новорязанскому шоссе и МКАД.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.gis-platform.ru/images/uploads/examples/mkad/example_mkad.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.gis-platform.ru/images/uploads/examples/mkad/example_mkad_2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;img src=&quot;https://gis-platform.ru/images/uploads/examples/mkad/example_mkad.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://gis-platform.ru/images/uploads/examples/mkad/example_mkad_2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content>
 		<category term="Примеры работы" />
 	</entry>
 	<entry>
 		<title>На дальних расстояниях</title>
-		<link rel="alternate" type="text/html" href="https://www.gis-platform.ru/index.php/examples/2-far"/>
+		<link rel="alternate" type="text/html" href="https://gis-platform.ru/index.php/examples/2-far"/>
 		<published>2014-01-01T22:52:50+00:00</published>
 		<updated>2014-01-01T22:52:50+00:00</updated>
-		<id>https://www.gis-platform.ru/index.php/examples/2-far</id>
+		<id>https://gis-platform.ru/index.php/examples/2-far</id>
 		<author>
 			<name>SS</name>
 		</author>
 		<summary type="html">&lt;p&gt;Реальные примеры работы на дальних расстояниях (с борта самолета).&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.gis-platform.ru/images/uploads/examples/istanbul/01_kursk.png&quot; alt=&quot;&quot; /&gt;&lt;img src=&quot;https://www.gis-platform.ru/images/uploads/examples/istanbul/01_istanbul.png&quot; alt=&quot;&quot; /&gt;&lt;img src=&quot;https://www.gis-platform.ru/images/uploads/examples/istanbul/02_istanbul.png&quot; alt=&quot;&quot; /&gt;&lt;img src=&quot;https://www.gis-platform.ru/images/uploads/examples/istanbul/03_istanbul.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</summary>
+&lt;p&gt;&lt;img src=&quot;https://gis-platform.ru/images/uploads/examples/istanbul/01_kursk.png&quot; alt=&quot;&quot; /&gt;&lt;img src=&quot;https://gis-platform.ru/images/uploads/examples/istanbul/01_istanbul.png&quot; alt=&quot;&quot; /&gt;&lt;img src=&quot;https://gis-platform.ru/images/uploads/examples/istanbul/02_istanbul.png&quot; alt=&quot;&quot; /&gt;&lt;img src=&quot;https://gis-platform.ru/images/uploads/examples/istanbul/03_istanbul.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</summary>
 		<content type="html">&lt;p&gt;Реальные примеры работы на дальних расстояниях (с борта самолета).&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.gis-platform.ru/images/uploads/examples/istanbul/01_kursk.png&quot; alt=&quot;&quot; /&gt;&lt;img src=&quot;https://www.gis-platform.ru/images/uploads/examples/istanbul/01_istanbul.png&quot; alt=&quot;&quot; /&gt;&lt;img src=&quot;https://www.gis-platform.ru/images/uploads/examples/istanbul/02_istanbul.png&quot; alt=&quot;&quot; /&gt;&lt;img src=&quot;https://www.gis-platform.ru/images/uploads/examples/istanbul/03_istanbul.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;img src=&quot;https://gis-platform.ru/images/uploads/examples/istanbul/01_kursk.png&quot; alt=&quot;&quot; /&gt;&lt;img src=&quot;https://gis-platform.ru/images/uploads/examples/istanbul/01_istanbul.png&quot; alt=&quot;&quot; /&gt;&lt;img src=&quot;https://gis-platform.ru/images/uploads/examples/istanbul/02_istanbul.png&quot; alt=&quot;&quot; /&gt;&lt;img src=&quot;https://gis-platform.ru/images/uploads/examples/istanbul/03_istanbul.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content>
 		<category term="Примеры работы" />
 	</entry>
 </feed>
